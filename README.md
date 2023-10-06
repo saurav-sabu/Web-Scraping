@@ -8,7 +8,8 @@
 - [Data Collected](#data-collected)
 - [Contributing](#contributing)
 - [Support](#support)
-
+- [Disclaimer](#disclaimer)
+  
 ## Introduction
 This Jupyter Notebook project is aimed at extracting data from the IMDB website for the top-rated movies using web scraping techniques. We will gather information such as movie name, ratings, release dates, num_of_likes, duration from the IMDB website. This README file provides an overview of the project, its requirements, and instructions on how to use the provided Jupyter Notebook.
 
@@ -80,3 +81,6 @@ If you would like to contribute to this project, please follow these guidelines:
 ## Support
 
 If you have any questions, encounter issues, or need assistance, you can contact at saurav.sabu9@gmail.com. I am here to help you with any inquiries or problems you may have.
+
+## Disclaimer
+As I wanted to scrape the data from IMDB website. I am ensuring that I am not performing any illegal activity using this data. I am going to use this data in my project to build some ML model and perform some data analysis.
